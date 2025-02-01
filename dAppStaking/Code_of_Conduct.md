@@ -38,7 +38,7 @@ This proposal is being shared to gather feedback from within the community befor
 
 This is the Code of Conduct for Astar's dApp Staking. It is a set of rules and guidelines that all participants in dApp Staking should follow. This Code of Conduct aims to ensure that dApp Staking is fair, transparent, and efficient. However, nothing is set in stone, and it may be changed in the future.
 
-|  # | Goudelines |
+|  # | Guidelines |
 |----|------------|
 |  1 | Users need to fully understand how dApp Staking works before using it. This can be done, for example, by reading [official documentation](https://docs.astar.network/docs/learn/dapp-staking/) or [blogs](https://astar.network/blog). |
 |  2 | dApp Staking is not a funding or charity mechanism. Projects must be self-sustaining regardless of staking rewards.<p>In this context, "self-sufficiency" means that while dApp Staking helps in launching and supporting the development of projects, it should not be the primary source of long-term revenue for the project. In other words, the project needs to be sustainable even without dApp Staking rewards. If additional funding is required, it must be sought from other sources. |
