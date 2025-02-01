@@ -1,3 +1,9 @@
+---
+title: dApp Staking Code of Conduct
+version: 0.1
+date: Feb 1, 2025.
+---
+
 # Ja
 これはAstar Forumに投稿するための文書構造に合わせた内容です。
 
