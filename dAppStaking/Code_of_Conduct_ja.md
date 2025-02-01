@@ -1,4 +1,5 @@
 # Ja
+これはAstar Forumに投稿するための文書構造に合わせた内容です。
 
 ## 投稿するAstar Forumのカテゴリー
 Governance > Community Council

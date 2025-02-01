@@ -1,4 +1,5 @@
 # Rev 0.1
+This content is structured to align with the document format for posting on the Astar Forum.
 
 ## Categories for Posting on the Astar Forum
 Governance > Community Council
