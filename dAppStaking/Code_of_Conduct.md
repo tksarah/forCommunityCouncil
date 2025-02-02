@@ -24,13 +24,17 @@ One of the main responsibilities of the Community Council is the management of d
 
 This proposal is being shared to gather feedback from within the community before it is published as an official document.
 
-**Considerations**
+**Considerations:**
 
 *The Community Council understands that the items in this code of conduct do not completely resolve all the issues raised within the community so far. Additionally, there are some related items that still leave room for discussion. Therefore, based on opinions and feedback from the community, minor adjustments may be made before the official publication, but items deemed to require sufficient discussion will be maintained as ongoing issues.*
 
 **Feedback Period:**
 
 *Until February 14th*
+
+**Community Council Original Members:**
+
+@Gaius_sama @jay @pitcoin777 @tksarah @Mouthmouth68  @AstarHood
 
 ---
 
