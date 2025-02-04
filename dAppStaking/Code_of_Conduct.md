@@ -1,7 +1,7 @@
 ---
 title: dApp Staking Code of Conduct
-version: 0.3
-date: Feb 3, 2025.
+version: 04.
+date: Feb 5, 2025.
 ---
 
 This content is structured to align with the document format for posting on the Astar Forum.
@@ -43,7 +43,7 @@ This proposal is being shared to gather feedback from within the community befor
 This is the Code of Conduct for Astar's dApp Staking. It is a set of rules and guidelines that all participants in dApp Staking should follow. This Code of Conduct aims to ensure that dApp Staking is fair, transparent, and efficient. However, nothing is set in stone, and it may be changed in the future.
 
 |  # | Section | Guidelines |
-|----|------------|
+|----| ------- | ------------|
 |  1 | Introduction | Users need to fully understand how dApp Staking works before using it. This can be done, for example, by reading [official documentation](https://docs.astar.network/docs/learn/dapp-staking/) or [blogs](https://astar.network/blog). |
 |  2 | Definitions and Terminology | dApp Staking is not a funding or charity mechanism. Projects must be self-sustaining regardless of staking rewards.<p>In this context, "self-sufficiency" means that while dApp Staking helps in launching and supporting the development of projects, it should not be the primary source of long-term revenue for the project. In other words, the project needs to be sustainable even without dApp Staking rewards. If additional funding is required, it must be sought from other sources. |
 |  3 | Purpose | dApp Staking is designed to support a sustainable ecosystem.<p>Projects should not promise financial gains to supporters through staking rewards without creating contributing contribution to Astar Growth with concrete results and onchain metrics. <p> Projects should use the dApp Staking mechanism to serve more users and add more value to the network.<p> The following on-chain metrics can contribute to asses induced the growth of Astar Network. <p> Examples for  DeFi projects:<ul><li>TVL (Total Value Locked)</li><li>Transaction volume (per unit time)</li><li> Generated fees (per unit time)</li><li>Wallets</li><li>Revenue</li><li>Mcap</li></ul><p>Examples for  NFT projects:<ul><li>Floor price (in $)</li><li>Total volume on marketplace</li><li>Percentage of collection for sale</li><li>Number of holders</li></ul>|
