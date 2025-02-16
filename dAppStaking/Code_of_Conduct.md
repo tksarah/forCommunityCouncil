@@ -1,7 +1,7 @@
 ---
 title: dApp Staking Code of Conduct
-version: 04.
-date: Feb 5, 2025.
+version: 1.0
+date: Feb 15, 2025.
 ---
 
 This content is structured to align with the document format for posting on the Astar Forum.
