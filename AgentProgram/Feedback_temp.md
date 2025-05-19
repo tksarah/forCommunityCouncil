@@ -7,7 +7,9 @@ This is a template for providing feedback on the community council's review of r
  * Basic Reward: 10,000 ASTR
  * Bonus Reward: 5,000 ASTR
 
-# Summary of Comments from Community Council Members
+# Summary of Comments from Community Council
 
  * < Comment >
  * < Comment > 
+
+Related Spreadsheet - [Sheet](url)
