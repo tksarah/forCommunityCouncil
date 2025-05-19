@@ -6,7 +6,7 @@ This is a template for providing feedback on the community council's review of r
 
  * Basic Reward: 10,000 ASTR
  * Bonus Reward: 5,000 ASTR
- ** Relevant Activity: < Pickup >
+   * Relevant Activity: < Pickup >
 
 # Summary of Comments from Community Council
 
