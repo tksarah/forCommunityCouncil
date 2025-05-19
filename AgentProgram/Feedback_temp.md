@@ -1,0 +1,13 @@
+This is a template for providing feedback on the community council's review of reports submitted by Astar Agents.  
+
+# Final Total Rewards
+
+**15,000** ASTR
+
+ * Basic Reward: 10,000 ASTR
+ * Bonus Reward: 5,000 ASTR
+
+# Summary of Comments from Community Council Members
+
+ * < Comment >
+ * < Comment > 
