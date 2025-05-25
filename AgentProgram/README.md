@@ -225,4 +225,19 @@ To align with Astar’s transition to on-chain governance and ensure community-d
 
 **Note:** If an ecosystem agent is also a member of the Community Council, they will not be authorized to vote on their own Tips proposal. This ensures fairness and impartiality in the approval process.
 
-### Community Treasury Tips Proposal Template
+# Astar Community Council Evaluation Tips Work Flow
+
+**Objective:** This document outlines the guidelines for the Ambassador Program 2.5, including the reporting process, evaluation methodology, and other relevant information related to the program.
+
+## 1. Community Council Tip Flow – Process Overview
+
+### 1.1 Proposal Submission
+
+* The Agent submits the proposal in the Astar Forum under the Agents Report Tab.
+* Please include a summary in the forum topic and share the full document via Google Docs or similar. Additionally, please mention @Community\_Council
+*  Topic title name should be formatted as follows:
+
+**Q1 2025 Contribution Report - <Agent Name/General or Technical>**
+ Example: "Q1 2025 Contribution Report - hogemaru/Technical"
+ Example: “Jan - Feb 2025 Contribution Report - fugamaru/General”
+
