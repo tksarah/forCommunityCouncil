@@ -422,9 +422,9 @@ Organized and hosted Astar Network beginner meetups for the local community.
 ```
 
 **Sample -1:**
-| CM | GOV | SM | CC | EM | 
-|---|---|---|---|---|
-| Astar TG<br> Astar Discord<br>*These engagement data will be discussed later.| 100 posts <br> 1.1 per day | 500.7K <br>impressions| 9 articles<br> 5 translations| 1 event|
+|| CM | GOV | SM | CC | EM | 
+|---|---|---|---|---|---|
+|JAN - MAR 2025| Astar TG<br> Astar Discord<br>*These engagement data will be discussed later.| 100 posts <br> 1.1 per day | 500.7K <br>impressions| 9 articles<br> 5 translations| 1 event|
 
 **Sample -2:**
 || CM | GOV | SM | CC | EM | 
