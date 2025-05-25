@@ -274,7 +274,7 @@ The Agent drafts their proposal in Google Docs and submits it under the “Agent
 * Supporting evidence: links, screenshots, metrics.
 * (Optional) A suggested reward amount — this will not directly influence the final reward.
 
-The details of the report template will be explained later. Please refer to XXXXX.
+The details of the report template will be explained later. Please refer to **Section 7**.
 
 ## 3. Evaluation Process
 
@@ -362,10 +362,28 @@ Reward (ASTR) =
 * **Bonus**: $200
 * **EMA30**: Value of EMA30 on the 1st of the month in which the evaluation is performed
 
-### 6. Final Notes
+## 6. Final Notes
 
 * The council has full authority to adjust, increase, or decrease rewards based on fair and transparent evaluation.
 * All evaluations must be finalized within **14 days** after the submission window closes.
 * All data and evaluations are logged in **the public evaluation sheet** (linked internally).
 * Adjustments may be made to this model in future cycles based on feedback and treasury capacity.
 
+
+## 7. Community Treasury Tips Proposal, Report Template
+
+Please submit your report in accordance with the template below as much as possible. This template is designed with considerations to make the evaluation process easier for council members.
+
+### Notes
+
+* Please write **a brief summary** at the beginning of the report. It is preferable for the summary to include the following points.
+  - Activity Period (e.g., a 3 month period from [start date] to [end date])
+  - Primary Activity Categories (e.g., SM or CC)
+  - Noteworthy Activities Independent of Categories
+* Please provide your profile information:
+  - Agent Type (General Agent or Technical Agent)
+  - Agent Name
+  - Email Address
+  - Names of Social Media Platforms Used for Activities
+  - Activity Region
+  - List of Social Media Platforms Where You Are Active (e.g., X, YouTube, Medium, Facebook, etc.)
