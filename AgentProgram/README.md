@@ -349,14 +349,17 @@ Rewards are calculated using this formula:
 
 ```
 Reward (ASTR) =
-      (“Base Amount”: $800) x (“Activity period”: months) / EMA30 <br>
-      x (“Average score of Council members” / 100)  <br>
+      (“Base Amount”: $800) x (“Activity period”: months) / EMA30 
+      x (“Average score of Council members” / 100) 
       + (“Bonus if granted”: $200 / EMA30)<br>
 ```
 
 ### 5.2 Parameters
 
 * **Base Amount**: Max. $800 per month of active participation.
+* **Activity period**: Number of months of activitiy to be evaluated(default: 3)
+* **Bonus**: $200
+* **EMA30**: Value of EMA30 on the 1st of the month in which the evaluation is performed
 
 ### 6. Final Notes
 
