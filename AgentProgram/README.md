@@ -373,7 +373,7 @@ Reward (ASTR) =
 
 Please submit your report in accordance with the template below as much as possible. This template is designed with considerations to make the evaluation process easier for council members.
 
-### 1. Summary
+### 1. Report Summary
 Please write **a brief summary** at the beginning of the report. It is preferable for the summary to include the following points.
 
 * Activity Period (e.g., a 3 month period from [start date] to [end date])
@@ -397,3 +397,34 @@ Please specify the requested reward amount. Below is a sample format. Additional
 |---|---|---|
 |121,212 ASTR | $0.033 | $4,000.00 |
 
+### Summary of Contributions
+
+Please write a summary for each category in which you have been active.
+
+At this time, please provide both a qualitative summary of contributions and a quantitative summary of activities as outlined below.
+
+Sample: 
+```
+Community Management: 
+Supporting and guiding community members, answering questions, and fostering engagement.
+
+Governance & Project Engagement:
+Participating in governance discussions, assisting with project proposals, and maintaining communication with dApp teams.
+
+Social Media Engagement:
+Creating content, promoting ecosystem updates, and strengthening Astar's online presence.
+
+Content Creation:
+Producing high-quality educational and promotional materials to boost awareness and adoption of Astar and its projects.
+
+Event Management:
+Organized and hosted Astar Network beginner meetups for the local community.
+```
+
+| CM | GOV | SM | CC | EM | 
+|---|---|---|---|---|---|
+| Astar TG<br> Astar Discord| 24 posts <br> 0.77 per day | 74,7K <br>impressions| 3 articles<br> 5 translations| 1 article| 1 event|
+
+
+
+To support the summary, include detailed evidence such as specific figures, screenshots, or statistical data at the end of the document as an **Appendix**.
