@@ -82,3 +82,70 @@ Be dedicated to advancing Astar as a community-driven ecosystem, contributing to
 ### Expectations
 
 Agents are integral to fostering a thriving and engaged community that supports Astar and Soneium’s transition into a real-world Web3 adoption platform. Here’s what we expect:
+
+* **Community Building:**
+Cultivate and grow a strong, vibrant community in your region, fostering discussions around Astar and Soneium and their impact on Web3 adoption.
+* **Transparency in Contributions:**
+Be open and clear about your activities, achievements, and ongoing tasks. Consistent and transparent reporting will be essential as part of the governance-focused community.
+* **Language and Localization:**
+Translate key Astar and Soneium content into your native language to make resources accessible to a broader audience and promote understanding.
+* **Event Organization:**
+Arrange and facilitate meetups, workshops, and educational sessions for your local community, emphasizing the integration of Web3 into everyday life.
+* **Representation at Events:**
+Attend blockchain and tech conferences as an Astar representative, sharing the vision and fostering strategic relationships.
+* **Active Participation:**
+Join monthly agent calls to discuss updates, share ideas, and collaborate with other agents and the Astar team.
+
+
+### Benefits
+
+Becoming an Astar Ecosystem Agent comes with significant perks, recognizing your contributions and empowering your involvement:
+
+* **Official Recognition:**
+Earn the status of an official Astar Network and Soneium representative, boosting your visibility and influence in the Web3 space.
+* **Privileged Access:**
+Get direct access to core contributors and teams, gaining early insights and updates on the ecosystem’s latest advancements.
+* **Governance Involvement:**
+Be part of the Community Council, contributing to governance decisions, Community Treasury management, and shaping the direction of Astar’s decentralized future.
+* **Reputation Building:**
+Build a strong reputation within the ecosystem that could pave the way for future career opportunities and leadership roles in the Web3 industry.
+* **Collaboration Opportunities:**
+Work alongside industry-leading figures and projects, expanding your network and enhancing your professional growth.
+* **Promotion and Recognition:**
+Receive recognition for your efforts through Astar’s official channels, increasing the reach and impact of your contributions.
+* **Incentives and Rewards:**
+Earn dApp staking rewards and passive income through the new incentive structure, aligned with the community-driven Tips Proposal System.
+* **Event Access:**
+Receive exclusive invitations to industry events and conferences sponsored by Astar and Soneium, giving you a platform to connect with innovators.
+* **Early Technology Access:**
+Be among the first to explore and adopt cutting-edge technologies launched within the Astar and Soneium ecosystems.
+* **Exclusive Perks:**
+Access limited-edition digital collectibles, like agent-only NFTs, and other exclusive Astar merchandise.
+* **Community Engagement:**
+Participate in casual hangouts and team-building activities, creating lasting relationships with fellow agents and core team members.
+
+### Code of Conduct for Astar Ecosystem Agents
+
+As the Astar Network evolves into a collective, with a broader mission of integrating with Soneium and driving Web3 adoption to billions, agents are ambassadors of this vision. Being an agent is a privilege and comes with a responsibility to uphold Astar's values, foster community trust, and actively contribute to a positive ecosystem.
+
+
+Before participating in the Astar Ecosystem Agent Program, all members must thoroughly understand and commit to the Astar Space Club: Code of Conduct. This ensures a community culture of mutual respect, innovation, and inclusivity.
+
+---
+
+### Respect and Integrity
+
+* **Embrace Inclusivity and Respect:**
+Treat everyone in the community, both Web2 and Web3, with dignity and respect. Embrace diversity in all its forms and promote a collaborative and welcoming environment that bridges the gap between decentralized technologies and broader society.
+* **Be a Community Builder:**
+Help fellow members by offering guidance, sharing resources, and uplifting each other, ensuring that both newcomers and experienced users can find their place in the Astar ecosystem.
+* **Lead Constructive Dialogue:**
+Contribute meaningfully to discussions, focusing on solutions that align with Astar and Soneium's goal of creating real-world Web3 use cases. Offer constructive criticism and seek to uplift, rather than undermine, community initiatives.
+* **Communicate Transparently:**
+Share your thoughts openly, clearly, and respectfully. Encourage honest dialogue while being mindful of others’ perspectives. Your communication should aim to further Astar's mission and foster understanding.
+* **Foster Continuous Improvement:**
+Be open to feedback and actively seek ways to improve your contributions to Astar and Soneium. Offer feedback that is considerate and designed to help others grow, reinforcing our collective mission.
+* **Uphold Ethical Standards:**
+Represent Astar with integrity, demonstrating ethical behavior both online and offline. Inspire trust through your actions and maintain a credible social presence, reflective of Astar’s role as a bridge between Web2 and Web3.
+* **Represent with Responsibility:**
+As agents of Astar and Soneium, manage your social identity responsibly. Avoid engaging in superficial content practices like engagement farming and maintain a professional stance. Be mindful when referencing competitors and refrain from promoting alternative ecosystems excessively.
