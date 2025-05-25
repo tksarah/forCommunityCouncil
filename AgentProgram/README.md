@@ -306,8 +306,13 @@ Additionally, if an Agent also serves as a Council member, their evaluation is c
 
 #### General Agent
 
-|Categories|Contribution Items|Evaluation criteria|
+|**Categories**|**Contribution Items**|**Evaluation criteria**|
 |----------|------------------|-------------------|
 | CM | Community Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Discord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link. |Local Community Support, Discord support, Community size, activity level, relevance, quantity, news and articles posted, proactive support, overall impact on the community.|
+|GOV|Governance & Project Engagement - Engage with governance and Unstoppable Grant discussion in the forum and Discord.|Forum/Discord activity, proposal involvement, quality, quantity and relevance, innovative suggestions, proposals support (questions, but also advice, feedback, etc.).|
+|SM|Social Media Engagement - You are required to put on "Astar Network Agent" on your Twitter account. Create short quality content or memes on Twitter or other social media platforms. Please share your tweets with your local community and get them to retweet to increase presence. You need to share your Twitter analytics (https://analytics.twitter.com/) every month.|"Twitter or other social media content, content quality & quantity, Threads, relevance, Brand awareness, Business development, analytics, impact, creativity, visibility, Astar projects impartiality.
+
+
+Note - The relentless promotion of a specific project on Astar by being an ambassador or core team member of that project will not be taken into account."|
 
 
