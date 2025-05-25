@@ -302,7 +302,6 @@ Additionally, if an Agent also serves as a Council member, their evaluation is c
 * General Agents and Technical Agents have different evaluation models. However, since various activities may overlap, the categories are not strictly limited. For example, even a General Agent can contribute to BUILD.
 
 * To avoid confusion, we are following the structure of the previous program for categorization. However, since the target ecosystems are Astar Network and Soneium, "SON" has been excluded.
-* 
 ![image](https://github.com/user-attachments/assets/8720e1d3-d07f-4f37-afb4-eed4f1dc94c8)
 
 #### General Agent
@@ -376,14 +375,19 @@ Please submit your report in accordance with the template below as much as possi
 
 ### Notes
 
-* Please write **a brief summary** at the beginning of the report. It is preferable for the summary to include the following points.
-  - Activity Period (e.g., a 3 month period from [start date] to [end date])
-  - Primary Activity Categories (e.g., SM or CC)
-  - Noteworthy Activities Independent of Categories
-* Please provide your profile information:
-  - Agent Type (General Agent or Technical Agent)
-  - Agent Name
-  - Email Address
-  - Names of Social Media Platforms Used for Activities
-  - Activity Region
-  - List of Social Media Platforms Where You Are Active (e.g., X, YouTube, Medium, Facebook, etc.)
+1. Summary
+Please write **a brief summary** at the beginning of the report. It is preferable for the summary to include the following points.
+
+* Activity Period (e.g., a 3 month period from [start date] to [end date])
+* Primary Activity Categories (e.g., SM or CC)
+* Noteworthy Activities Independent of Categories
+
+2. Profile
+Please provide your profile information.
+
+* Agent Type (General Agent or Technical Agent)
+* Agent Name
+* Email Address
+* Names of Social Media Platforms Used for Activities
+* Activity Region
+* List of Social Media Platforms Where You Are Active (e.g., X, YouTube, Medium, Facebook, etc.)
