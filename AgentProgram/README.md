@@ -432,6 +432,7 @@ To support the summary, include **detailed evidence** such as **specific figures
 ### 5. Detailed Contribution Breakdown
 
 Here, provide detailed descriptions of the activities listed in section 4. Include information about the relevant categories (e.g., SM or CC), along with supporting evidence such as content, creative works, related links and references, screenshots demonstrating the activities, statistical data, and any other relevant proof.
+In particular, for CM, GOV, SM, CC and EM please provide information that clearly corresponds to the criteria listed in the "**Evaluation criteria**" section of the table above.
 
 ### 6. Future Plans
 
