@@ -302,7 +302,8 @@ Additionally, if an Agent also serves as a Council member, their evaluation is c
 * General Agents and Technical Agents have different evaluation models. However, since various activities may overlap, the categories are not strictly limited. For example, even a General Agent can contribute to BUILD.
 
 * To avoid confusion, we are following the structure of the previous program for categorization. However, since the target ecosystems are Astar Network and Soneium, "SON" has been excluded.
-
+* 
+![image](https://github.com/user-attachments/assets/8720e1d3-d07f-4f37-afb4-eed4f1dc94c8)
 
 #### General Agent
 
