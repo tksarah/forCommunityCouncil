@@ -131,7 +131,6 @@ As the Astar Network evolves into a collective, with a broader mission of integr
 
 Before participating in the Astar Ecosystem Agent Program, all members must thoroughly understand and commit to the Astar Space Club: Code of Conduct. This ensures a community culture of mutual respect, innovation, and inclusivity.
 
----
 
 ### Respect and Integrity
 
@@ -149,3 +148,54 @@ Be open to feedback and actively seek ways to improve your contributions to Asta
 Represent Astar with integrity, demonstrating ethical behavior both online and offline. Inspire trust through your actions and maintain a credible social presence, reflective of Astar’s role as a bridge between Web2 and Web3.
 * **Represent with Responsibility:**
 As agents of Astar and Soneium, manage your social identity responsibly. Avoid engaging in superficial content practices like engagement farming and maintain a professional stance. Be mindful when referencing competitors and refrain from promoting alternative ecosystems excessively.
+
+
+### Prohibited Conduct
+
+* **No Impersonation or Misrepresentation:**
+Do not impersonate others or misrepresent your affiliation with Astar, Soneium, or the broader community. Authenticity and transparency are crucial to maintaining trust.
+* **Limit Self-Promotion:**
+Refrain from excessive self-promotion. Your focus should be on community and ecosystem growth rather than personal gain. Self-promotion should only occur if it adds value to the broader community and aligns with Astar’s goals.
+* **Zero Tolerance for Harassment or Hate Speech:**
+Maintain a safe and inclusive community by refraining from any form of harassment, discrimination, or hate speech. Respect and empathy are foundational to our ecosystem’s success.
+* **Avoid Plagiarism:**
+Always attribute and credit original creators when using or sharing their work. Uphold integrity by creating and promoting original content.
+* **No Speculation on Astar’s Token Price:**
+Do not engage in or encourage speculative conversations about Astar's token price. Discussions should be centered on the technology, use cases, and real-world impact rather than investment topics.
+
+### Responsibility and Consequences
+
+Being part of the Astar Ecosystem Agent Program is an honor, and with it comes the expectation to act as a positive force within our community and partnerships. Violations of this code may result in disciplinary actions, ranging from warnings to removal from the program, based on the severity and recurrence of the behavior.
+
+
+The Community Growth Team, in alignment with the Community Council, holds the authority to enforce these guidelines and ensure the community remains a safe, constructive, and visionary space.
+
+### Together, Let’s Illuminate the Future
+
+By adhering to this Code of Conduct, you contribute to Astar and Soneium's shared mission: making Web3 accessible to everyone and fostering real-world adoption. Let's continue building a future where decentralized technologies seamlessly integrate with everyday life, shining brightly like the stars we aspire to be.
+
+
+## Agent Programs:
+
+**1. General Agent Program:**
+
+* Open to non-technical community members who wish to focus on marketing, community engagement, and business development.
+* Responsibilities include hosting events, content creation, and community management.
+
+**2. Technical Agent Program:**
+
+* Tailored for technically inclined individuals who can contribute to the technical development of the Astar and Soneium ecosystems.
+* Responsibilities include writing technical documentation, supporting developers, and contributing to open-source projects.
+
+### What Can Agents Do?
+
+* **Promote Astar and Soneium:** Spread awareness of the evolving Astar collective and the benefits of its integration with Soneium.
+* **Education and Workshops:** Organize educational workshops and webinars explaining the technical and business aspects of the ecosystem.
+* **Content Creation:** Develop articles, videos, infographics, or podcasts that explain Astar’s mission, governance model, and real-world applications.
+* **Community Support:** Provide support to new users in forums and online communities, answering questions and guiding them through the ecosystem.
+* **Business Development:** Identify and cultivate partnerships that can leverage Astar and Soneium for real-world Web3 solutions.
+* **Event Participation:** Represent Astar and Soneium at conferences, meetups, and panels to engage broader audiences and share insights.
+
+### Compensation Model:
+
+
