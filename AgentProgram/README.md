@@ -14,12 +14,12 @@ This update is closely tied to our transition to on-chain governance on Astar, w
 ## On-Chain Governance
 As the Astar Network transitions to on-chain governance, significant changes are being implemented to enhance transparency, efficiency, and community-driven decision-making for the Astar Ecosystem Agent Program. Here's an outline of the new structure:
 
-### 1. Transition to On-Chain Governance:
+### 1. Transition to On-Chain Governance
 
 * The management and approval of token compensations to Astar agents will now fall under the responsibility of the newly formed Community Council.
 * The Community Council will consist of Startale team members, Astar ecosystem agents, and engaged community members, ensuring diverse representation and oversight.
 
-### 2. Key Changes:
+### 2. Key Changes
 
 * **Evaluation and Remuneration Structure:** The existing evaluation process, previously managed by Startale, will be removed. Instead, agents will be compensated through a decentralized and transparent process.
 * **Community Council’s Role:** The council will be responsible for assessing and approving compensation requests made by agents, known as “Tips,” through on-chain community treasury proposals.
@@ -30,7 +30,7 @@ The Tips Compensation Model is a community-driven approach designed to reward As
 
 These proposals are then reviewed and approved by the Community Council, ensuring that compensation is merit-based and aligned with the ecosystem's impact goals. This model promotes accountability, transparency, and community involvement, empowering and rewarding agents to contribute meaningfully while keeping the ecosystem sustainable.
 
-### How the Tips Proposal System Works:
+### How the Tips Proposal System Works
 
 * **Agents Seeking Compensation:** Agents will submit Tip proposals to the Community Treasury.
 * **Frequency:** Agents can submit one Tip proposal per quarter.
@@ -39,7 +39,7 @@ These proposals are then reviewed and approved by the Community Council, ensurin
   - A justification detailing contributions made during the quarter, with specific evidence of impact and results. The proposer must have a verified on-chain identity.
 * **Approval Process:** The Community Council will review each proposal, deliberate on the contributions made, and decide if the compensation is justified.
 
-### Role of Startale Under the New System:
+### Role of Startale Under the New System
 
 * **Oversight and Support:** Startale will continue to manage the Astar Ecosystem Agent Program by:
   - Handling new member applications.
@@ -52,11 +52,11 @@ These proposals are then reviewed and approved by the Community Council, ensurin
 
 With Astar’s evolution from a blockchain protocol into a dynamic and inclusive collective, the Astar Ecosystem Agent Program has been restructured to align with the broader vision of driving Web3 adoption and real-world use cases. Agents will continue to play a critical role in this transformative journey by promoting and supporting the ecosystem's expansion, especially as Astar integrates with Soneium and the broader Superchain ecosystem.
 
-### Goals and Responsibilities:
+### Goals and Responsibilities
 
 **Goal:** The goal of the Astar Ecosystem Agent Program is to engage passionate community members who will contribute to the development, expansion, and global adoption of Web3 through Astar and Soneium. This includes fostering innovative use cases, educating the community, and building strategic partnerships that align with Astar's mission to bring Web3 to billions.
 
-### Key Responsibilities:
+### Key Responsibilities
 
 * **Community Engagement:** Actively engage with the community to spread awareness and promote Astar and Soneium, facilitating conversations around their role in Web3 adoption.
 * **Education and Outreach:** Create educational content that explains Astar’s transition into a collective and the unique benefits of integrating with Soneium, targeting both Web3 enthusiasts and Web2 audiences.
@@ -175,14 +175,14 @@ The Community Growth Team, in alignment with the Community Council, holds the au
 By adhering to this Code of Conduct, you contribute to Astar and Soneium's shared mission: making Web3 accessible to everyone and fostering real-world adoption. Let's continue building a future where decentralized technologies seamlessly integrate with everyday life, shining brightly like the stars we aspire to be.
 
 
-## Agent Programs:
+## Agent Programs
 
-**1. General Agent Program:**
+### 1. General Agent Program
 
 * Open to non-technical community members who wish to focus on marketing, community engagement, and business development.
 * Responsibilities include hosting events, content creation, and community management.
 
-**2. Technical Agent Program:**
+### 2. Technical Agent Program
 
 * Tailored for technically inclined individuals who can contribute to the technical development of the Astar and Soneium ecosystems.
 * Responsibilities include writing technical documentation, supporting developers, and contributing to open-source projects.
@@ -196,6 +196,33 @@ By adhering to this Code of Conduct, you contribute to Astar and Soneium's share
 * **Business Development:** Identify and cultivate partnerships that can leverage Astar and Soneium for real-world Web3 solutions.
 * **Event Participation:** Represent Astar and Soneium at conferences, meetups, and panels to engage broader audiences and share insights.
 
-### Compensation Model:
+### Compensation Model
 
+To align with Astar’s transition to on-chain governance and ensure community-driven transparency, the compensation system has evolved into a “Tips” Proposal System.
 
+#### 1. Tips Proposal System
+
+* **Frequency:** Agents may submit one Tip proposal per quarter.
+* **Proposal Requirements:** Each submission must specify the requested compensation amount and provide detailed justifications for contributions made in that quarter.
+* **Review Process:** The Community Council will review each proposal and decide on approval based on the impact and quality of contributions.
+
+#### 2. Eligible Contributions for Tips
+
+* **Community Engagement:** Organizing or hosting impactful events, engaging in governance discussions, and moderating forums.
+* **Educational Content:** Publishing in-depth articles, creating tutorials, or making explainer videos about Astar and Soneium.
+* **Technical Contributions:** Writing technical documentation, developing tools or dApps, and supporting developer initiatives.
+* **Outreach and Partnerships:** Establishing partnerships that add value to the ecosystem or drive mainstream Web3 adoption.
+* **Translations:** Translating key documents into multiple languages to broaden global reach.
+
+#### 3. Contributions Not Eligible for Tips
+
+* Speculative or investment-related content.
+* Low-effort or repetitive social media posts without meaningful engagement.
+* Contributions lacking proof of impact or measurable outcomes.
+* Activities or support that are unverifiable or lack community relevance.
+
+#### 4. Voting Conflict of Interest:
+
+**Note:** If an ecosystem agent is also a member of the Community Council, they will not be authorized to vote on their own Tips proposal. This ensures fairness and impartiality in the approval process.
+
+### Community Treasury Tips Proposal Template
