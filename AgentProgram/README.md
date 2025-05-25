@@ -233,11 +233,13 @@ To align with Astar’s transition to on-chain governance and ensure community-d
 
 ### 1.1 Proposal Submission
 
-* The Agent submits the proposal in the Astar Forum under the Agents Report Tab.
-* Please include a summary in the forum topic and share the full document via Google Docs or similar. Additionally, please mention @Community\_Council
-*  Topic title name should be formatted as follows:
+* The Agent submits the proposal in the Astar Forum under the **Agents Report Tab**.
+* Please include a summary in the forum topic and share the full document via **Google Docs or similar**. Additionally, please mention **@Community\_Council** 
+* Topic title name should be formatted as follows:
 
 **Q1 2025 Contribution Report - <Agent Name/General or Technical>**
+
  Example: "Q1 2025 Contribution Report - hogemaru/Technical"
+
  Example: “Jan - Feb 2025 Contribution Report - fugamaru/General”
 
