@@ -403,7 +403,7 @@ Please write a summary for each category in which you have been active.
 
 At this time, please provide both a qualitative summary of contributions and a quantitative summary of activities as outlined below.
 
-Sample: 
+**Sample:**
 ```
 Community Management: 
 Supporting and guiding community members, answering questions, and fostering engagement.
@@ -421,10 +421,10 @@ Event Management:
 Organized and hosted Astar Network beginner meetups for the local community.
 ```
 
+**Sample:**
 | CM | GOV | SM | CC | EM | 
-|---|---|---|---|---|---|
-| Astar TG<br> Astar Discord| 24 posts <br> 0.77 per day | 74,7K <br>impressions| 3 articles<br> 5 translations| 1 article| 1 event|
-
+|---|---|---|---|---|
+| Astar TG<br> Astar Discord| 24 posts <br> 0.77 per day | 74,7K <br>impressions| 3 articles<br> 5 translations| 1 event|
 
 
 To support the summary, include detailed evidence such as specific figures, screenshots, or statistical data at the end of the document as an **Appendix**.
