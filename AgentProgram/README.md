@@ -389,3 +389,11 @@ Please provide your profile information.
 * Names of Social Media Platforms Used for Activities
 * Activity Region
 * List of Social Media Platforms Where You Are Active (e.g., X, YouTube, Medium, Facebook, etc.)
+
+### Requested ASTR
+Please specify the requested reward amount. Below is a sample format. Additionally, if there are any key points that should be communicated to the evaluator regarding the requested amount, please include them.
+
+|Requested ASTR| ASTR Price<br> (EMA30 01-04-2025)| Total Amount Requested <br> for 4 Months|
+|---|---|---|
+|121,212 ASTR | $0.033 | $4,000.00 |
+
