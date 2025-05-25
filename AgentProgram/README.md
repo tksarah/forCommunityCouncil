@@ -286,11 +286,11 @@ The Astar Community Council (ACC) evaluates all submissions. Each Council member
 
 A. Each Council member evaluates submissions individually and assigns scores based on the criteria for General and Technical Agents.
 
-B. Each Council member has 100 points to allocate. The final score for an Agent is determined by averaging the scores given by all Council members. (The specific calculation method is outlined in Section 4 of this document.)
+B. Each Council member has 100 points to allocate. The final score for an Agent is determined by averaging the scores given by all Council members. (The specific calculation method is outlined in Section 5 of this document.)
 
-C. The base reward amount is determined using the average score as a percentage. The base reward is set at $800, as stated in Section 3.1 of this document.
+C. The base reward amount is determined using the average score as a percentage. The base reward is set at $800, as stated in Section 4.1 of this document.
 
-D. If an Agent is recognized for outstanding contributions—demonstrating motivated and purposeful actions—a bonus of $200 will be granted. (This is detailed in Section 3.2 of this document.)
+D. If an Agent is recognized for outstanding contributions—demonstrating motivated and purposeful actions—a bonus of $200 will be granted. (This is detailed in Section 4.2 of this document.)
 
 E. The final reward amount consists of the base reward plus the bonus amount (if applicable).
 Additionally, if an Agent also serves as a Council member, their evaluation is conducted excluding themselves. In other words, the Agent does not score their own submission.
@@ -357,7 +357,7 @@ Reward (ASTR) =
 ### 5.2 Parameters
 
 * **Base Amount**: Max. $800 per month of active participation.
-* **Activity period**: Number of months of activitiy to be evaluated(default: 3)
+* **Activity period**: Number of months of activitiy to be evaluated (default: 3)
 * **Bonus**: $200
 * **EMA30**: Value of EMA30 on the 1st of the month in which the evaluation is performed
 
