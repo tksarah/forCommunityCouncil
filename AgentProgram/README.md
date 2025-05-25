@@ -239,3 +239,27 @@ To align with Astar’s transition to on-chain governance and ensure community-d
   - Example: "Q1 2025 Contribution Report - hogemaru/Technical"
   - Example: “Jan - Feb 2025 Contribution Report - fugamaru/General”
 
+### 1.2 Council Evaluation
+
+The Community Council evaluates the proposal based on the established **Scoring System** criteria and determines the final Tip amount.
+
+### 1.3 Feedback Publication
+
+The Council publishes its feedback and the approved Tip amount in the Forum.
+
+### 1.4 On-Chain Submission
+
+After receiving feedback, the Agent submits the Tip proposal under "**Community Treasury Proposals**" on **Subsquare**.
+
+### 1.5 Distribution
+
+Once the proposal is approved by the Community Council, the Tip amount is automatically sent to the Agent’s wallet address.
+
+## 2. Submission Process
+
+### 2.1 Who Can Submit
+
+Any Agent who participated in the Astar Agent Program during the eligible period.
+
+### 2.2 Submission Timeline
+
