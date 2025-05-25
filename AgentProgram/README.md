@@ -432,3 +432,13 @@ To support the summary, include **detailed evidence** such as **specific figures
 ### 5. Detailed Contribution Breakdown
 
 Here, provide detailed descriptions of the activities listed in section 4. Include information about the relevant categories (e.g., SM or CC), along with supporting evidence such as content, creative works, related links and references, screenshots demonstrating the activities, statistical data, and any other relevant proof.
+
+### 6. Future Plans
+
+Please describe your future activity plans.
+
+### 7. Other Evidences
+Please include any additional information that should be communicated to the community regarding your activities during this period.
+
+### 8. Conclusion
+Lastly, if you have any comments, please add them here.
