@@ -347,10 +347,12 @@ Additionally, if an Agent also serves as a Council member, their evaluation is c
 
 Rewards are calculated using this formula:
 
-Reward(ASTR) = <br>
+```
+**Reward(ASTR)** = <br>
 (“Base Amount”: $800) x (“Activity period”: months) / EMA30 <br>
 x (“Average score of Council members” / 100)  <br>
 + (“Bonus if granted”: $200 / EMA30)<br>
+```
 
 ### 5.2 Parameters
 
