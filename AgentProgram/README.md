@@ -390,14 +390,14 @@ Please provide your profile information.
 * Activity Region
 * List of Social Media Platforms Where You Are Active (e.g., X, YouTube, Medium, Facebook, etc.)
 
-### Requested ASTR
+### 3. Requested ASTR
 Please specify the requested reward amount. Below is a sample format. Additionally, if there are any key points that should be communicated to the evaluator regarding the requested amount, please include them.
 
 |Requested ASTR| ASTR Price<br> (EMA30 01-04-2025)| Total Amount Requested <br> for 4 Months|
 |---|---|---|
 |121,212 ASTR | $0.033 | $4,000.00 |
 
-### Summary of Contributions
+### 4. Summary of Contributions
 
 Please write a summary for each category in which you have been active.
 
@@ -427,4 +427,4 @@ Organized and hosted Astar Network beginner meetups for the local community.
 | Astar TG<br> Astar Discord| 24 posts <br> 0.77 per day | 74,7K <br>impressions| 3 articles<br> 5 translations| 1 event|
 
 
-To support the summary, include **detailed evidence** such as __specific figures, screenshots, or statistical data__ at the end of the document as an **Appendix**.
+To support the summary, include **detailed evidence** such as **specific figures, screenshots, or statistical data** at the end of the document as an **Appendix**.
