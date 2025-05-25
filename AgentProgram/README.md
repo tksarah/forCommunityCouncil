@@ -42,8 +42,8 @@ These proposals are then reviewed and approved by the Community Council, ensurin
 ### Role of Startale Under the New System:
 
 * **Oversight and Support:** Startale will continue to manage the Astar Ecosystem Agent Program by:
- - Handling new member applications.
- - Providing support and guidance to agents.
- - Promoting agents and their contributions on Astar's official channels and platforms.
- - Managing agent privileges, such as event invitations and direct access to the team.
+  - Handling new member applications.
+  - Providing support and guidance to agents.
+  - Promoting agents and their contributions on Astar's official channels and platforms.
+  - Managing agent privileges, such as event invitations and direct access to the team.
 * **Note:** Startale will no longer be involved in evaluating agent contributions for compensation purposes.
