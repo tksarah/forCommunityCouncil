@@ -35,8 +35,8 @@ These proposals are then reviewed and approved by the Community Council, ensurin
 * **Agents Seeking Compensation:** Agents will submit Tip proposals to the Community Treasury.
 * **Frequency:** Agents can submit one Tip proposal per quarter.
 * **Proposal Requirements:** Each Tip proposal must include: 
- - The amount requested for compensation.
- - A justification detailing contributions made during the quarter, with specific evidence of impact and results. The proposer must have a verified on-chain identity.
+  - The amount requested for compensation.
+  - A justification detailing contributions made during the quarter, with specific evidence of impact and results. The proposer must have a verified on-chain identity.
 * **Approval Process:** The Community Council will review each proposal, deliberate on the contributions made, and decide if the compensation is justified.
 
 ### Role of Startale Under the New System:
@@ -47,3 +47,38 @@ These proposals are then reviewed and approved by the Community Council, ensurin
   - Promoting agents and their contributions on Astar's official channels and platforms.
   - Managing agent privileges, such as event invitations and direct access to the team.
 * **Note:** Startale will no longer be involved in evaluating agent contributions for compensation purposes.
+
+## Updated Program: Alignment with Astar Collective
+
+With Astar’s evolution from a blockchain protocol into a dynamic and inclusive collective, the Astar Ecosystem Agent Program has been restructured to align with the broader vision of driving Web3 adoption and real-world use cases. Agents will continue to play a critical role in this transformative journey by promoting and supporting the ecosystem's expansion, especially as Astar integrates with Soneium and the broader Superchain ecosystem.
+
+### Goals and Responsibilities:
+
+**Goal:** The goal of the Astar Ecosystem Agent Program is to engage passionate community members who will contribute to the development, expansion, and global adoption of Web3 through Astar and Soneium. This includes fostering innovative use cases, educating the community, and building strategic partnerships that align with Astar's mission to bring Web3 to billions.
+
+### Key Responsibilities:
+
+* **Community Engagement:** Actively engage with the community to spread awareness and promote Astar and Soneium, facilitating conversations around their role in Web3 adoption.
+* **Education and Outreach:** Create educational content that explains Astar’s transition into a collective and the unique benefits of integrating with Soneium, targeting both Web3 enthusiasts and Web2 audiences.
+* **Ecosystem Development:** Support projects and initiatives that leverage Astar and Soneium for real-world use cases, from digital content management to creator engagement.
+* **Event Organization:** Host and participate in events, webinars, and meetups to spread the word about Astar and Soneium and drive global interest in Web3 technologies.
+* **Content Creation:** Develop high-quality articles, videos, and graphics to educate the community and drive interest in Astar and Soneium.
+
+### Criteria
+
+To become a valuable part of the Astar Ecosystem Agent Program and effectively contribute to Astar’s mission of Web3 mass adoption, you should meet the following criteria:
+
+* **Deep Understanding of Astar & Soneium Vision:**
+Have a strong grasp of Astar’s evolution from a blockchain to a collective, Soneium’s role in the ecosystem, and the latest developments within the Superchain framework.
+* **Community Engagement Experience:**
+Demonstrated experience in engaging and managing online communities across platforms like Telegram, Discord, Twitter, and hosting in-person or virtual meetups.
+* **Active Community Member:**
+Be consistently active within the Astar and Soneium communities, participating in discussions and initiatives that align with our vision.
+* **Passion for Web3 Education:**
+Show a genuine interest in educating and empowering the community about Astar, Soneium, and the broader Web3 space, bridging the gap between decentralized and traditional technology users.
+* **Commitment to Decentralization:**
+Be dedicated to advancing Astar as a community-driven ecosystem, contributing to governance and promoting decentralization.
+
+### Expectations
+
+Agents are integral to fostering a thriving and engaged community that supports Astar and Soneium’s transition into a real-world Web3 adoption platform. Here’s what we expect:
