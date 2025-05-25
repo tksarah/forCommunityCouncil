@@ -328,3 +328,38 @@ Additionally, if an Agent also serves as a Council member, their evaluation is c
 |EM|Event Management<br> - Organize an online/physical meetup with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session.<br><br> - Organize an irl or online meetup/talks with a group of developers to discuss topics related to ink! and WASM. If you require a budget to cover the expenses of the irl meetup, please let us know in advance.<br><br>If you’re simply attending or invited as a guest to an event, it would fall under "Others."| Quality, quantity, size of event, number of participants, Brand awareness, Business development, time dedicated, planning and coordination, report quality, community impact and feedback.|
 |BUILD|Build something<br> - Show us your skills by building something. Your progress on Github should be transparent.||
 |Others|Contribution Activities Not Covered Above||
+
+## 4. Types of Rewards
+
+### 4.1 Base Reward
+
+* The maximum amount is **a fixed amount of $800**.
+* The reward base was set at $0-$800, with ASTR amounts calculated using **a 30-day moving average (EMA30)**. 
+
+### 4.2 Standard Bonus
+
+* $200 for Bonus.
+* If Council members determine that an activity reflects “meaningful contributions driven by love and passion” or “motivated and purposeful actions,” **a bonus** will be granted.
+
+## 5. Reward Calculation Model
+
+### 5.1 Base Formula
+
+Rewards are calculated using this formula:
+
+Reward(ASTR) = <br>
+(“Base Amount”: $800) x (“Activity period”: months) / EMA30 <br>
+x (“Average score of Council members” / 100)  <br>
++ (“Bonus if granted”: $200 / EMA30)<br>
+
+### 5.2 Parameters
+
+* **Base Amount**: Max. $800 per month of active participation.
+
+### 6. Final Notes
+
+* The council has full authority to adjust, increase, or decrease rewards based on fair and transparent evaluation.
+* All evaluations must be finalized within **14 days** after the submission window closes.
+* All data and evaluations are logged in **the public evaluation sheet** (linked internally).
+* Adjustments may be made to this model in future cycles based on feedback and treasury capacity.
+
