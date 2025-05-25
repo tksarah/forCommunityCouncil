@@ -435,7 +435,7 @@ Organized and hosted Astar Network beginner meetups for the local community.
 |ToTAL| *These engagement data will be discussed later.| 90 posts <br> 1 per day | 300K <br>impressions| 9 articles<br> 3 translations| 1 event|
 
 
-To support the summary, include **detailed evidence** such as **specific figures, screenshots, or statistical data** at the end of the document as an **Appendix**.
+To support the summary, include **detailed evidence** such as **specific figures, screenshots, or statistical data** at the end of the document as "**5. Detailed Contribution Breakdow**".
 
 ### 5. Detailed Contribution Breakdown
 
