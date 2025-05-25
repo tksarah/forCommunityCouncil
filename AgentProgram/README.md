@@ -395,7 +395,7 @@ Please specify the desired reward amount. Below is a sample format. Additionally
 
 |Requested ASTR| ASTR Price<br> (EMA30 01-04-2025)| Total Amount Requested <br> for 4 Months|
 |---|---|---|
-|121,212 ASTR | $0.033 | $4,000.00 |
+|90,000 ASTR | $0.033 | $3,000.00 |
 
 ### 4. Summary of Contributions
 
