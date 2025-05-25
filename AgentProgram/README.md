@@ -421,10 +421,18 @@ Event Management:
 Organized and hosted Astar Network beginner meetups for the local community.
 ```
 
-**Sample:**
+**Sample -1:**
 | CM | GOV | SM | CC | EM | 
 |---|---|---|---|---|
-| Astar TG<br> Astar Discord<br>*These engagement data will be discussed later.| 100 posts <br> 1.1 per day | 500,7K <br>impressions| 9 articles<br> 5 translations| 1 event|
+| Astar TG<br> Astar Discord<br>*These engagement data will be discussed later.| 100 posts <br> 1.1 per day | 500.7K <br>impressions| 9 articles<br> 5 translations| 1 event|
+
+**Sample -2:**
+|| CM | GOV | SM | CC | EM | 
+|---|---|---|---|---|---|
+|JAN 2025| Astar TG<br> Astar Discord| 30 posts <br> 1 per day | 100K <br>impressions| 3 articles<br> 1 translations| 1 event|
+|FEB 2025| Astar TG<br> Astar Discord| 30 posts <br> 1 per day | 100K <br>impressions| 3 articles<br> 1 translations| |
+|MAR 2025| Astar TG<br> Astar Discord| 30 posts <br> 1 per day | 100K <br>impressions| 3 articles<br> 1 translations| |
+|ToTAL| *These engagement data will be discussed later.| 90 posts <br> 1 per day | 300K <br>impressions| 9 articles<br> 3 translations| 1 event|
 
 
 To support the summary, include **detailed evidence** such as **specific figures, screenshots, or statistical data** at the end of the document as an **Appendix**.
