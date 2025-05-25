@@ -24,3 +24,26 @@ As the Astar Network transitions to on-chain governance, significant changes are
 * **Evaluation and Remuneration Structure:** The existing evaluation process, previously managed by Startale, will be removed. Instead, agents will be compensated through a decentralized and transparent process.
 * **Community Council’s Role:** The council will be responsible for assessing and approving compensation requests made by agents, known as “Tips,” through on-chain community treasury proposals.
 
+## New Compensation Model: Tips Proposal System
+The Tips Compensation Model is a community-driven approach designed to reward Astar Ecosystem Agents transparently and fairly. Instead of receiving automatic payments, agents can submit “Tips” proposals to the Community Treasury once per quarter. Each proposal should specify the requested amount and provide a detailed justification of past contributions, such as community engagement, content creation, event organization, or technical support.
+
+
+These proposals are then reviewed and approved by the Community Council, ensuring that compensation is merit-based and aligned with the ecosystem's impact goals. This model promotes accountability, transparency, and community involvement, empowering and rewarding agents to contribute meaningfully while keeping the ecosystem sustainable.
+
+### How the Tips Proposal System Works:
+
+* **Agents Seeking Compensation:** Agents will submit Tip proposals to the Community Treasury.
+* **Frequency:** Agents can submit one Tip proposal per quarter.
+* **Proposal Requirements:** Each Tip proposal must include: 
+ * The amount requested for compensation.
+ * A justification detailing contributions made during the quarter, with specific evidence of impact and results. The proposer must have a verified on-chain identity.
+* **Approval Process:** The Community Council will review each proposal, deliberate on the contributions made, and decide if the compensation is justified.
+
+### Role of Startale Under the New System:
+
+* **Oversight and Support:** Startale will continue to manage the Astar Ecosystem Agent Program by:
+ * Handling new member applications.
+ * Providing support and guidance to agents.
+ * Promoting agents and their contributions on Astar's official channels and platforms.
+ * Managing agent privileges, such as event invitations and direct access to the team.
+* **Note:** Startale will no longer be involved in evaluating agent contributions for compensation purposes.
