@@ -263,3 +263,51 @@ Any Agent who participated in the Astar Agent Program during the eligible period
 
 ### 2.2 Submission Timeline
 
+* Submissions must be made **within the first 7 days of the new quarter**.
+* Evaluations are generally conducted on **a calendar quarterly** basis; however, exceptions may arise depending on the timing of an agent's enrollment and their actual period of activity. Therefore, when preparing an evaluation report, it is essential to clearly specify the activity period being assessed.
+
+### 2.3 Required Documentation
+
+The Agent drafts their proposal in Google Docs and submits it under the “Agents Report” subcategory on the Astar Forum to the Community Council for review, including:
+
+* A summary of contributions during the quarter.
+* Supporting evidence: links, screenshots, metrics.
+* (Optional) A suggested reward amount — this will not directly influence the final reward.
+
+The details of the report template will be explained later. Please refer to XXXXX.
+
+## 3. Evaluation Process
+
+### 3.1 Evaluators
+
+The Astar Community Council (ACC) evaluates all submissions. Each Council member scores Agents individually via a shared evaluation sheet.
+
+### 3.2 Review Method
+
+A. Each Council member evaluates submissions individually and assigns scores based on the criteria for General and Technical Agents.
+
+B. Each Council member has 100 points to allocate. The final score for an Agent is determined by averaging the scores given by all Council members. (The specific calculation method is outlined in Section 4 of this document.)
+
+C. The base reward amount is determined using the average score as a percentage. The base reward is set at $800, as stated in Section 3.1 of this document.
+
+D. If an Agent is recognized for outstanding contributions—demonstrating motivated and purposeful actions—a bonus of $200 will be granted. (This is detailed in Section 3.2 of this document.)
+
+E. The final reward amount consists of the base reward plus the bonus amount (if applicable).
+Additionally, if an Agent also serves as a Council member, their evaluation is conducted excluding themselves. In other words, the Agent does not score their own submission.
+
+### 3.3  Categories & Scoring System
+
+* Agent's proposal reviews are based on the evaluation criteria.
+
+* General Agents and Technical Agents have different evaluation models. However, since various activities may overlap, the categories are not strictly limited. For example, even a General Agent can contribute to BUILD.
+
+* To avoid confusion, we are following the structure of the previous program for categorization. However, since the target ecosystems are Astar Network and Soneium, "SON" has been excluded.
+
+
+#### General Agent
+
+|Categories|Contribution Items|Evaluation criteria|
+|----------|------------------|-------------------|
+| CM | Community Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Discord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link. |Local Community Support, Discord support, Community size, activity level, relevance, quantity, news and articles posted, proactive support, overall impact on the community.|
+
+
