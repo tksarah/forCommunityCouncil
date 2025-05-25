@@ -391,7 +391,7 @@ Please provide your profile information.
 * List of Social Media Platforms Where You Are Active (e.g., X, YouTube, Medium, Facebook, etc.)
 
 ### 3. Requested ASTR
-Please specify the requested reward amount. Below is a sample format. Additionally, if there are any key points that should be communicated to the evaluator regarding the requested amount, please include them.
+Please specify the desired reward amount. Below is a sample format. Additionally, please provide a valid justification for the requested reward amount to the evaluator.
 
 |Requested ASTR| ASTR Price<br> (EMA30 01-04-2025)| Total Amount Requested <br> for 4 Months|
 |---|---|---|
@@ -428,3 +428,7 @@ Organized and hosted Astar Network beginner meetups for the local community.
 
 
 To support the summary, include **detailed evidence** such as **specific figures, screenshots, or statistical data** at the end of the document as an **Appendix**.
+
+### 5. Detailed Contribution Breakdown
+
+Here, provide detailed descriptions of the activities listed in section 4. Include information about the relevant categories (e.g., SM or CC), along with supporting evidence such as content, creative works, related links and references, screenshots demonstrating the activities, statistical data, and any other relevant proof.
