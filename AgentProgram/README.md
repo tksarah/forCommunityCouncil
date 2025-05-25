@@ -373,16 +373,14 @@ Reward (ASTR) =
 
 Please submit your report in accordance with the template below as much as possible. This template is designed with considerations to make the evaluation process easier for council members.
 
-### Notes
-
-1. Summary
+### 1. Summary
 Please write **a brief summary** at the beginning of the report. It is preferable for the summary to include the following points.
 
 * Activity Period (e.g., a 3 month period from [start date] to [end date])
 * Primary Activity Categories (e.g., SM or CC)
 * Noteworthy Activities Independent of Categories
 
-2. Profile
+### 2. Profile
 Please provide your profile information.
 
 * Agent Type (General Agent or Technical Agent)
