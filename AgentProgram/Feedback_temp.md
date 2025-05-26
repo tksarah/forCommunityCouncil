@@ -1,6 +1,6 @@
 This is a template for providing feedback on the community council's review of reports submitted by Astar Agents.  
 
-# Final Total Rewards
+# Q1 2025 Total Rewards
 
 **15,000** ASTR
 
