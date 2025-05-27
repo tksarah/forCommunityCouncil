@@ -2,6 +2,9 @@ This is a template for providing feedback on the community council's review of r
 
 # Q1 2025 Total Rewards
 
+Thank you for your contributions to the Astar Network and Soneium Ecosystem.
+The Community Council has reviewed your report, and we would like to share the following results.
+
 **15,000** ASTR
 
  * Basic Reward: 10,000 ASTR
@@ -17,3 +20,5 @@ Please create a new Proposal with this reward amount under "Community Treasury P
 
 I will share the evaluation sheet additionally once it is ready.
 Related Spreadsheet - [Sheet](url)
+
+We look forward to your continued contributions in the future.
