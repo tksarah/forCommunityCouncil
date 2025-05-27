@@ -1,6 +1,6 @@
 This is a template for providing feedback on the community council's review of reports submitted by Astar Agents.  
 
-# Q1 2025 Total Rewards
+# Q1 2025 Ecosystem Contribution & Rewards Report
 
 Thank you for your contributions to the Astar Network and Soneium Ecosystem.
 The Community Council has reviewed your report, and we would like to share the following results.
