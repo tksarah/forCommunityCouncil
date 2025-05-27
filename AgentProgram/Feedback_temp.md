@@ -8,9 +8,12 @@ This is a template for providing feedback on the community council's review of r
  * Bonus Reward: 5,000 ASTR (_If there are no specific bonus recipients, this line will not be included._)
    * Relevant Activity: < Pickup >
 
+Please create a new Proposal with this reward amount under "Community Treasury Proposals" on [Subsquare](https://astar.subsquare.io/).
+
 # Summary of Comments from Community Council
 
  * < Comment >
  * < Comment > 
 
+I will share the evaluation sheet additionally once it is ready.
 Related Spreadsheet - [Sheet](url)
