@@ -8,7 +8,9 @@ At this stage, enter the final determined reward amount in "Value".
 
 ### Title: 
 
-Q1 2025 Ecosystem Agent <Agent Name>'s Reward
+{Quarter} Ecosystem Agent {Agent Name}'s Reward
+
+ex: "Q1 2025 Ecosystem Agent Hoge's Reward
 
 ### Main text:
 
