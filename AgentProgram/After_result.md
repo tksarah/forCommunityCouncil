@@ -8,9 +8,9 @@ At this stage, enter the final determined reward amount in "Value".
 
 ### Title: 
 
-{Quarter} Ecosystem Agent {Agent Name}'s Reward
+Motion to approve the treasury request for {Quarter} Ecosystem Agent {Agent Names}'s Reward
 
-ex: "Q1 2025 Ecosystem Agent Hoge's Reward
+ex: Motion to approve the treasury request for Q1 2025 Ecosystem Agent {Agent Names}'s Reward
 
 ### Main text:
 
