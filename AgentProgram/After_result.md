@@ -10,7 +10,7 @@ At this stage, enter the final determined reward amount in "Value".
 
 Motion to approve the treasury request for {Quarter} Ecosystem Agent {Agent Names}'s Reward
 
-ex: Motion to approve the treasury request for Q1 2025 Ecosystem Agent {Agent Names}'s Reward
+ex: Motion to approve the treasury request for Q1 2025 Ecosystem Agent Hoge's Reward
 
 ### Main text:
 
