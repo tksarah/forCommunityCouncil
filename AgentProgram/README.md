@@ -434,6 +434,9 @@ Organized and hosted Astar Network beginner meetups for the local community.
 |MAR 2025| Astar TG<br> Astar Discord| 30 posts <br> 1 per day | 100K <br>impressions| 3 articles<br> 1 translations| |
 |ToTAL| *These engagement data will be discussed later.| 90 posts <br> 1 per day | 300K <br>impressions| 9 articles<br> 3 translations| 1 event|
 
+It is desirable to include quantitative metrics in the above summary. Specifically, to demonstrate the impact of contributions, please attach measurable information where possible for metrics such as **Impressions, Views, Likes, Reposts, Shares, and Replies—particularly** in the case of social media posts or published articles.
+
+In addition, if engagement rate summaries are available on the media or social networking platforms being used, including that data would also be beneficial.
 
 To support the summary, include **detailed evidence** such as **specific figures, screenshots, or statistical data** at the end of the document as "**5. Detailed Contribution Breakdow**".
 
