@@ -253,8 +253,7 @@ After receiving feedback, the Agent submits the Tip proposal under "**Community 
 
 ### 1.5 Distribution
 
-Once the proposal is approved by the Community Council, the Tip amount is automatically sent to the Agent’s wallet address.
-
+Once the proposal is approved by the Community Council, the Tip amount is sent to the Agent’s wallet address.
 Proposal rewards are distributed for each expenditure period. Payments are made every Tuesday.
 
 ## 2. Submission Process
